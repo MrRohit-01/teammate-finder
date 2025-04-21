@@ -54,7 +54,7 @@ const HomePage: React.FC = () => {
                 <Button 
                   size="lg" 
                   variant="primary"
-                  className="bg-white text-indigo-900 hover:bg-gray-100 hover:text-white"
+                  className="text-black bg-white hover:bg-gray-100 hover:text-white"
                   icon={<Users size={20} />}
                 >
                   Find Teammates
